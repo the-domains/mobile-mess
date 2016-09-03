@@ -1,20 +1,4 @@
-name: Mobile Mess
-favicon: null
-layout_spectrum: 0.50148
 typography_spectrum: 0.21963
-title: Mobile Mess Blog
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.9472176521085203
   saturation: 0.375
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50148
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Mobile Mess
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Mobile Mess Blog
+description: Cleaning up the messes around the internet.
 purpose: []
